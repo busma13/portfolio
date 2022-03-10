@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: sen-regular
+font link: http://www.philatype.com/#sen
+font author: Philatype
+font author site: http://www.philatype.com/
+Slogan Font: Neuton-Extralight.ttf
+
+icon designer: Eugen Belyakoff
+icon designer link: /eugen.belyakoff
+        
+{"bg":"#E1EAE7","icon-gradient-0":"#041804","font":"#152925","slogan":"#293d39"}
+      

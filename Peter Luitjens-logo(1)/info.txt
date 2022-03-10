@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Resagokr
+font link: http://www.glukfonts.pl/font.php?font=Resagokr
+font author: GLUK fonts
+font author site: http://www.glukfonts.pl/
+Slogan Font: Aleo-Light.otf
+
+icon designer: Eugen Belyakoff
+icon designer link: /eugen.belyakoff
+        
+{"bg":"#01252C","icon":"#88DF95","font":"#FFFFFF","slogan":"#ffffff"}
+      
