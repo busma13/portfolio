@@ -2578,6 +2578,12 @@ input, select, textarea {
 		margin: -2.5em 0 0 -2.5em;
 	}
 
+		.tiles h3 {
+			padding-left: 2.5em;
+			width: 100%;
+			text-align: center;
+		}
+
 		.tiles article {
 			-moz-transition: -moz-transform 0.5s ease, opacity 0.5s ease;
 			-webkit-transition: -webkit-transform 0.5s ease, opacity 0.5s ease;
