@@ -100,7 +100,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #ffffff;
+		background: #f1ebeb;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2575,6 +2575,7 @@ input, select, textarea {
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
 		postiion: relative;
+		justify-content: space-around;
 		margin: -2.5em 0 0 -2.5em;
 	}
 
